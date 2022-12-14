@@ -1,3 +1,6 @@
+Just following along with a tutorial and learning the basics of Flutter.
+
+
 # first_app
 
 A new Flutter project.
